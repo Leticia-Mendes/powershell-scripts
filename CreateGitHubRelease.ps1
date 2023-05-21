@@ -1,5 +1,5 @@
 ### This script is running in the "Release Creation Pipeline" pipeline: 
-### https://github.com/Leticia-Mendes/github-actions-pipelines/actions/runs/5038623576
+https://github.com/Leticia-Mendes/github-actions-pipelines/actions/runs/5038623576
 
 $release_name = ""
 $token = ""
