@@ -1,9 +1,9 @@
 #  This script is running in the "Release Creation Pipeline" pipeline: 
-#  https://github.com/Leticia-Mendes/github-actions-pipelines/actions/runs/5038702382
+#  https://github.com/Leticia-Mendes/github-actions-pipelines/actions/runs/5173294924
 
-$release_name = ""
-$token = ""
-$user = "Leticia-Mendes"
+$release_name = $env:release_name
+$token = $env:token
+$user = $env:user
 
 function Main {
 	Install-Module powershell-yaml -Force
