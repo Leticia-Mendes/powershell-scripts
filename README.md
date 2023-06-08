@@ -37,7 +37,7 @@ To run the script, follow these steps:
 
 1. Open a PowerShell terminal.
 2. Navigate to the directory where the script is located.
-3. Run the following command: .\CreateGitHubRelease.ps1
+3. Run the following command: `.\CreateGitHubRelease.ps1`
 
 The script will perform the following actions:
 
