@@ -49,6 +49,9 @@ The script will perform the following actions:
     - Display a separator between each repository's output.
 5. If any errors occur during the process, an error message will be displayed.
 
+![image](https://github.com/Leticia-Mendes/powershell-scripts/assets/90715443/1cab8518-7ffb-4ed6-bda4-4bbcfb0c8c4a)
+
+
 ### Output
 The pipeline generates the following artifacts:
 
@@ -56,4 +59,4 @@ ReleaseCreation.csv: This file contains the release information for each reposit
     
 CSV file (ReleaseCreation.csv):
 
-   ![image](https://github.com/Leticia-Mendes/powershell-scripts/assets/90715443/523c7ca6-5936-4f53-a805-2d918efac354)
+   ![image](https://github.com/Leticia-Mendes/powershell-scripts/assets/90715443/07162adc-c991-4e07-b4b7-5685e697bb3b)
