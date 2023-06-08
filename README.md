@@ -22,6 +22,7 @@ Before running the script, you need to provide some configuration settings:
     - **`token`**: Your GitHub personal access token. This token should have the necessary permissions to create releases on the repositories. Set it as an environment variable (**`$env:token`**).
     - **`user`**: Your GitHub username. Set it as an environment variable (**`$env:user`**).
 2. Create a YAML file (**`release-versions.yml`**) containing the repository names and versions. The file should be structured like this:
+
 ![image](https://github.com/Leticia-Mendes/powershell-scripts/assets/90715443/95664791-6176-4007-9c40-099c0744cb25)
 
 3. Save the YAML file in the same directory as the script.
