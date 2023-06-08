@@ -50,18 +50,10 @@ The script will perform the following actions:
 5. If any errors occur during the process, an error message will be displayed.
 
 ### Output
-The script generates the following output:
+The pipeline generates the following artifacts:
 
-Console output:
-    - Repository name
-    - Latest tag name (if "latest" was specified)
-    - Commit SHA of the tag
-    - Published date of the release
-    - Target branch of the release
-    - Comparison status (ahead, behind, or equal)
-    - Number of commits ahead of the main branch
-    - Number of commits behind the main branch
-    - Separator between repositories
+ReleaseCreation.csv: This file contains the release information for each repository, including the repository name, version/tag, release name, published date, target branch, comparison status, and commit differences.
     
 CSV file (ReleaseCreation.csv):
+
    ![image](https://github.com/Leticia-Mendes/powershell-scripts/assets/90715443/523c7ca6-5936-4f53-a805-2d918efac354)
